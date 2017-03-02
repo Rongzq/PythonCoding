@@ -8,7 +8,7 @@
 import os
 from sys import argv
 
-#script, first, second, 
+#script, first, second, thrid
 (script, first, second, third) = argv
 
 print ("The script is called: ", script)
