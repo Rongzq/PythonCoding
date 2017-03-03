@@ -25,6 +25,7 @@ print("-------------------")
 five = 10 - 2 + 3 - 6
 print("This should be five: %s" % five)
 
+
 def secret_formula(started):
     jelly_beans = started * 500
     jars = jelly_beans / 1000
